@@ -1,0 +1,21 @@
+{
+  "_requiredBy": [
+    "/"
+  ],
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "meh",
+  "devDependencies": {
+    "standard": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "homepage": "",
+  "keywords": [
+  ],
+  "license": "MIT",
+  "main": "LocalStorage.js",
+  "name": "node-localstorage",
+  "version": "1.3.1"
+}
